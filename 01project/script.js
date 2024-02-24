@@ -13,3 +13,10 @@ display.forEach((i)=>{
 
     },dur)
 })
+/*
+setInterval(func, delay)
+
+
+
+
+*/
